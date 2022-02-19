@@ -1,4 +1,7 @@
+
+import java.util.*;
 public class Person 
 {
-	private String Name;
+	private String firstName, lastName;
+	private Date birthDate;
 }
